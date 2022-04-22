@@ -39,7 +39,7 @@ Program:
 ```
 
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: Aruru.Sai Bnadhavi
+Developed by: Aruru.Sai Bandhavi
 RegisterNumber:  212221240006
 
 ## HALF ADDER:
@@ -71,7 +71,7 @@ endmodule
 ### Truth Table:
 ![output](https://github.com/Saibandhavi75/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de3.jpg?raw=true)
 ### Timing Diagram:
-![output](https://github.com/Saibandhavi75/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de1.jpg?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de4.jpg?raw=true)
 
 ### FULL ADDER:
 ### Logic Symbol:
